@@ -1,0 +1,53 @@
+Projeto de Teste Git
+Este é um projeto criado para praticar comandos básicos e intermediários do Git.
+
+Objetivos
+Praticar os seguintes comandos:
+
+git init
+
+git add
+
+git commit
+
+git status
+
+git diff
+
+git branch
+
+git merge
+
+git rebase
+
+git push
+
+git pull
+
+git fetch
+
+Estrutura do Projeto
+.
+├── app.py
+├── README.md
+
+Como executar
+Se estiver usando Python:
+
+python3 app.py
+
+Fluxo de treino
+Criar arquivos
+
+Fazer commits
+
+Criar branches
+
+Testar merge
+
+Resolver conflitos
+
+Praticar rebase
+
+Autor
+Vinicius Souza
