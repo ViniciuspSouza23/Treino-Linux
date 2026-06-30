@@ -5,7 +5,7 @@ def login(usuario, senha):
 
 
 def calcular_total(preco, quantidade):
-    return preco * quantidade * 0.9
+    return preco * quantidade
 
 
 print(login("admin", "123"))
